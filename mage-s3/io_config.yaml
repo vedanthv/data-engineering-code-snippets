@@ -1,0 +1,8 @@
+version: 0.1.1
+default:
+  # Default profile created for data IO access.
+  # Add your credentials for the source you use, and delete the rest.
+  # AWS
+  AWS_ACCESS_KEY_ID: {YOUR-KEY-HERE}
+  AWS_SECRET_ACCESS_KEY: {YOUR SECRET KEY HERE}
+  AWS_REGION: us-east-2
