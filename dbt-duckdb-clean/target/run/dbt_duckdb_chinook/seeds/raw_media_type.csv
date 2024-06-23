@@ -1,0 +1,12 @@
+
+    
+    
+    truncate table "chinook"."main"."raw_media_type";
+    -- dbt seed --
+    
+            insert into "chinook"."main"."raw_media_type" ("media_type_id", "name") values
+            (?,?),(?,?),(?,?),(?,?),(?,?)
+        
+
+;
+  
