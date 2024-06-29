@@ -3,6 +3,7 @@
 - [x] dbt Integration with Athena
   - [x] Creating materialized tables in Athena using data from S3
   - [x] Creating materialized tables in Athena using data from S3
-  - [ ] Using references from another model in current view/table
-  - [ ] Custom tests for views and models
-  - [ ] Running only one model @ a time
+  - [x] Using references from another model in current view/table
+  - [x] Custom tests for views and models
+  - [x] Running only one model @ a time
+- [x] dbt and duckdb integration
